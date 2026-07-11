@@ -1,0 +1,2 @@
+id,client_name,professional_id,service_type,start_time,duration,status,payment_status
+1,ADDC,1,Drone,2025-01-04 09:00:00,60,scheduled,pending

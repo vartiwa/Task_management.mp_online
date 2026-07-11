@@ -1,0 +1,9 @@
+{
+    "email_enabled": true,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_username": "your-email@gmail.com",
+    "smtp_password": "your-app-specific-password",
+    "from_email": "your-email@gmail.com",
+    "email_templates_path": "email_templates/"
+}
